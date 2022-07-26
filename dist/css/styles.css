@@ -5,7 +5,7 @@
 body {
   height: 89vh;
   align-items: center;
-  background-image: url("../../../form/profile_pictures/background_img.jpg");
+  background-image: url(../../background_img.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
